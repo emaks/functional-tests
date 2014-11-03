@@ -1,0 +1,39 @@
+{
+    "event": "suiteStart",
+    "suite": "All Tests",
+    "tests": 2
+}{
+    "event": "suiteStart",
+    "suite": "Selenium\\TestCase",
+    "tests": 0
+}{
+    "event": "suiteStart",
+    "suite": "Devmate\\Tests\\DevmateTest",
+    "tests": 2
+}{
+    "event": "testStart",
+    "suite": "Devmate\\Tests\\DevmateTest",
+    "test": "Devmate\\Tests\\DevmateTest::scenario1"
+}{
+    "event": "test",
+    "suite": "Devmate\\Tests\\DevmateTest",
+    "test": "Devmate\\Tests\\DevmateTest::scenario1",
+    "status": "pass",
+    "time": 8.8680720329285,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "Devmate\\Tests\\DevmateTest",
+    "test": "Devmate\\Tests\\DevmateTest::scenario2"
+}{
+    "event": "test",
+    "suite": "Devmate\\Tests\\DevmateTest",
+    "test": "Devmate\\Tests\\DevmateTest::scenario2",
+    "status": "pass",
+    "time": 10.206037044525,
+    "trace": [],
+    "message": "",
+    "output": ""
+}

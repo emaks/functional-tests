@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="All Tests" tests="2" assertions="15" failures="0" errors="0" time="19.074109">
+    <testsuite name="Selenium\TestCase" file="C:\Downloads\functional\framework\Selenium\TestCase.php" namespace="Selenium" fullPackage="Selenium" tests="0" assertions="0" failures="0" errors="0" time="0.000000"/>
+    <testsuite name="Devmate\Tests\DevmateTest" file="C:\Downloads\functional\testsuite\Devmate\Tests\DevMateTest.php" namespace="Devmate\Tests" fullPackage="Devmate.Tests" tests="2" assertions="15" failures="0" errors="0" time="19.074109">
+      <testcase name="scenario1" class="Devmate\Tests\DevmateTest" file="C:\Downloads\functional\testsuite\Devmate\Tests\DevMateTest.php" line="9" assertions="5" time="8.868072"/>
+      <testcase name="scenario2" class="Devmate\Tests\DevmateTest" file="C:\Downloads\functional\testsuite\Devmate\Tests\DevMateTest.php" line="28" assertions="10" time="10.206037"/>
+    </testsuite>
+  </testsuite>
+</testsuites>

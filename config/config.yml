@@ -1,0 +1,17 @@
+---
+config:
+    browser:
+        browser: 'Firefox'
+        browserName: 'firefox'
+        host: 'localhost'
+        port: 4444
+        seleniumServerRequestsTimeout: 90
+        sessionStrategy: shared
+        desiredCapabilities:
+            platform: ANY
+    framework:
+        testsuite_base_path: 'testsuite'
+        saveScreenshotOnFailure: true
+        browserTimeoutPeriod: 30
+    application:
+        url: 'http://devmate.com'
